@@ -1,2 +1,2 @@
 # LearningGO
-This is repository is for learning GO language
+This repository is for learning GO language
